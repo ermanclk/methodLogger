@@ -1,0 +1,2 @@
+com\comodo\nucal\methodlogging\aspect\LogMe.class
+com\comodo\nucal\methodlogging\aspect\LoggerAdvice.class
