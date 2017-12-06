@@ -16,7 +16,7 @@ import java.lang.reflect.Method;
 public class LoggerAdvice {
     private Logger logger = LoggerFactory.getLogger(LoggerAdvice.class);
 
-    @Pointcut("execution( public * com.comodo.nucal..*(..))")
+    @Pointcut("execution( public * com.celik..*(..))")
     public void logMethods() {
     }
 
